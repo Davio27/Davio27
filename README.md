@@ -4,15 +4,14 @@
 <h2> Hello World!</h2>
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
-- :rainbow: &nbsp; Eu sou o Gabriel Rodrigues mas pode me chamar de Gabs, 
-- 🔭 &nbsp; Estou estudando JavaScript e seus Frameworks, principalmente React;
-- 🎓 &nbsp; Apaixonado por tecnologia, cursei Eletroeletronica no COTUCA - Colégio Técnico de Campinas da Unicamp;
-- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-- 🎓 &nbsp; Cursando Especialização Tecnolgias Microsoft - Extecamp Unicamp;
-- 🎓 &nbsp; Cursando uma pós-graduação, especialização em projetos de aplicativos móveis multiplataforma - Descomplica Faculdade Digital;
-- 💼 &nbsp; Já fui QA por aguns anos e hoje atuo como dev Front-End, mas estou sempre em busca de novas oportunidades de aprendizado;
+- :rainbow: &nbsp; Eu sou o Dávio Carvalho mas pode me chamar de Dave, 
+- 🔭 &nbsp; Estou estudando Python e seus Frameworks, e agora me especializando em React;
+- 🎓 &nbsp; Apaixonado por tecnologia, cursei Desenvolvimento de Sistemas na ETEC - Escola Técnica Estadual Centro Paula Souza;
+- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
+- 🎓 &nbsp; Cursando React Native - Udemy;
+- 🎓 &nbsp; Formado Especialização em Python - Udemy;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
-- :iphone: &nbsp; Gosto de mexer com automação residencial no meu tempo livre, coisas com alexa, google nest e arduino/Raspberry, mas fora da pandemia praticava esportes como skate e parkour;
+- :iphone: &nbsp; Gosto de mexer com desenvolvimento de sof residencial no meu tempo livre, coisas com alexa, google nest e arduino/Raspberry, mas fora da pandemia praticava esportes como skate e parkour;
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
