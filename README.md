@@ -11,14 +11,13 @@
 - 🎓 &nbsp; Cursando React Native - Udemy;
 - 🎓 &nbsp; Formado Especialização em Python - Udemy;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
-- :iphone: &nbsp; Gosto de mexer com desenvolvimento de sof residencial no meu tempo livre, coisas com alexa, google nest e arduino/Raspberry, mas fora da pandemia praticava esportes como skate e parkour;
+- :iphone: &nbsp; Gosto de mexer com desenvolvimento de software em python no meu tempo livre, coisas com api, google, desenvolvimento web (HTML, CSS, JS), mas voltando na rotina, pratico academia e jogo games;
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | TypeScript  
-- 🌐 &nbsp; ReactJs | ReactTs| Next.Js | Styled Components | 
-- :scroll: &nbsp; NodeJS | Express | Python | Flask 
-- :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical
+- 💻 &nbsp; HTML | CSS | JavaScript 
+- 🌐 &nbsp; Python | Frameworks | C
+- :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical | Power BI | Excel
 - 🔧 &nbsp; Scrum | Kanban | Git | Github 
 
 <br>
