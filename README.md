@@ -32,20 +32,11 @@
 
 </br>
 
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=Davio27">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Davio27&layout=compact&theme=radical" />
-  </a>
-</div>
-
-
-
 <h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
 
 &nbsp; <a align="center" href="https://www.linkedin.com/in/daviocarvalho2001/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a align="center" href="mailto:daviccarvalho11@hotmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a align="center" href="https://davio27.github.io/myportfolio" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/doodle/48/portfolio.png" alt="portfolio"/></a>
+&nbsp; <a align="center" href="https://davio27.github.io/myportfolio" target="_blank" rel="noopener noreferrer"><img  align="center" src="https://img.icons8.com/doodle/48/portfolio.png"  width="48" alt="portfolio"/></a>
 
 
 </p>
