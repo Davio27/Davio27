@@ -18,7 +18,7 @@
 - 💻 &nbsp; HTML | CSS | JavaScript 
 - 🌐 &nbsp; Python | Frameworks | C
 - :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical | Power BI | Excel
-- 🔧 &nbsp; Scrum | Kanban | Git | Github 
+- 🔧 &nbsp; Scrum | Git | Github 
 
 <br>
 
