@@ -22,18 +22,18 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Apenasgabs&count_private=true&show_icons=true&include_all_commits=false&theme=dracula" alt="Apenasgabs's github stats" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Davio27"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Davio27&count_private=true&show_icons=true&include_all_commits=false&theme=dracula" alt="Davio27's github stats" />
 </a>
 
 </br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Apenasgabs"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Apenasgabs&layout=compact&theme=dracula" />
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davio27"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davio27&layout=compact&theme=dracula" />
 </a>
 
 </br>
 
 
-<a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Apenasgabs"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Apenasgabs&layout=compact&theme=radical" />
+<a align="center" href="https://github-readme-stats.vercel.app/api/wakatime?username=Davio27"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Davio27&layout=compact&theme=radical" />
 </a>
 
 
