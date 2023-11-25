@@ -1,12 +1,12 @@
 
-<img align="right" alt="GIF" src="https://becode.com.br/wp-content/uploads/2016/10/Por-que-usar-JavaScript.gif" width="400"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 
 <h2> Hello World!</h2>
 <h3> :man_office_worker: 💻 Quem sou eu: </h3>
 
 - :rainbow: &nbsp; Eu sou o Dávio Carvalho mas pode me chamar de Dave, 
 - 🔭 &nbsp; Estou estudando Python e seus Frameworks, e agora me especializando em React;
-- 🎓 &nbsp; Apaixonado por tecnologia, cursei Desenvolvimento de Sistemas na ETEC - Escola Técnica Estadual Centro Paula Souza;
+- 🎓 &nbsp; Apaixonado por tecnologia, me formei Desenvolvimento de Sistemas na ETEC - Escola Técnica Estadual Centro Paula Souza;
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
 - 🎓 &nbsp; Cursando React Native - Udemy;
 - 🎓 &nbsp; Formado Especialização em Python - Udemy;
@@ -15,10 +15,10 @@
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript 
-- 🌐 &nbsp; Python | Frameworks | C
+- 💻 &nbsp; HTML | CSS | JavaScript | Python | C
+- 🌐 &nbsp; Cybersegurança | Frameworks | DataScience | DataBases
 - :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical | Power BI | Excel
-- 🔧 &nbsp; Scrum | Git | Github 
+- 🔧 &nbsp; Scrum | Git | Github | Engenharia de Software
 
 <br>
 
