@@ -8,7 +8,7 @@
 - 🔭 &nbsp; Sou especializado em Python e seus Frameworks, e agora me especializando em React e desenvolvimento web (HTML, CSS e JS);
 - 🎓 &nbsp; Apaixonado por tecnologia, me formei Desenvolvimento de Sistemas na ETEC - Escola Técnica Estadual Centro Paula Souza;
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-- 🎓 &nbsp; Cursando ReactJS Maestria - Udemy;
+- 🎓 &nbsp; Cursando React JS Maestria - Udemy;
 - 🎓 &nbsp; Cursando Desenvolvimento Web Maestria - Udemy;
 - 🎓 &nbsp; Formado Especialização em Python - Udemy;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
