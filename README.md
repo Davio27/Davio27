@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="400"/>
 
 <h2> Hello World!</h2>
-<h3> :man_office_worker: 💻 Quem sou eu: </h3>
+<h3> 💻 Quem sou eu: </h3>
 
 - :rainbow: &nbsp; Eu sou o Dávio Carvalho mas pode me chamar de Dave, 
 - 🔭 &nbsp; Estou estudando Python e seus Frameworks, e agora me especializando em React;
