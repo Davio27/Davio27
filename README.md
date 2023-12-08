@@ -5,17 +5,18 @@
 <h3> 💻 Quem sou eu: </h3>
 
 - :rainbow: &nbsp; Eu sou o Dávio Carvalho mas pode me chamar de Dave, 
-- 🔭 &nbsp; Estou estudando Python e seus Frameworks, e agora me especializando em React;
+- 🔭 &nbsp; Sou especializado em Python e seus Frameworks, e agora me especializando em React e desenvolvimento web (HTML, CSS e JS);
 - 🎓 &nbsp; Apaixonado por tecnologia, me formei Desenvolvimento de Sistemas na ETEC - Escola Técnica Estadual Centro Paula Souza;
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-- 🎓 &nbsp; Cursando React Native - Udemy;
+- 🎓 &nbsp; Cursando ReactJS Maestria - Udemy;
+- 🎓 &nbsp; Cursando Desenvolvimento Web Maestria - Udemy;
 - 🎓 &nbsp; Formado Especialização em Python - Udemy;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
 - :iphone: &nbsp; Gosto de mexer com desenvolvimento de software em python no meu tempo livre, coisas com api, google, desenvolvimento web (HTML, CSS, JS), mas voltando na rotina, pratico academia e jogo games;
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Python | C
+- 💻 &nbsp; HTML | CSS | JavaScript | Python | C | ReactJS
 - 🌐 &nbsp; Cybersegurança | Frameworks | DataScience | DataBases
 - :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical | Power BI | Excel
 - 🔧 &nbsp; Scrum | Git | Github | Engenharia de Software
