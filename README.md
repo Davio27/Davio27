@@ -23,25 +23,6 @@
 
 <br>
 
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Davio27"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Davio27&count_private=true&show_icons=true&include_all_commits=false&theme=dracula" alt="Davio27's github stats" />
-</a>
-
-</br>
-
-<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davio27"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davio27&layout=compact&theme=dracula" />
-</a>
-
-</br>
-
-<h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
-
-&nbsp; <a align="center" href="https://www.linkedin.com/in/daviocarvalho2001/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a align="center" href="mailto:daviccarvalho11@hotmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a align="center" href="https://davio27.github.io/myportfolio" target="_blank" rel="noopener noreferrer"><img  align="center" src="https://img.icons8.com/doodle/48/portfolio.png"  width="48" alt="portfolio"/></a>
-
-
-</p>
-
 ## 📈 GitHub Status 
 <div >
   <a href="https://github.com/lucasxedes">
@@ -65,4 +46,22 @@
   <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
               
 </div>
+
+</br>
+
+<a align="center" href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davio27"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Davio27&layout=compact&theme=aura" />
+</a>
+
+</br>
+
+<h2> :globe_with_meridians: Vamos tomar aquele :coffee: e fazer NetWork, contem comigo: </h2>
+
+&nbsp; <a align="center" href="https://www.linkedin.com/in/daviocarvalho2001/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a align="center" href="mailto:daviccarvalho11@hotmail.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a align="center" href="https://davio27.github.io/myportfolio" target="_blank" rel="noopener noreferrer"><img  align="center" src="https://img.icons8.com/doodle/48/portfolio.png"  width="48" alt="portfolio"/></a>
+
+
+</p>
+
+
 
