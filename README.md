@@ -8,15 +8,16 @@
 - 🔭 &nbsp; Sou especializado em Python e seus Frameworks, e agora me especializando em React JS e desenvolvimento Web (HTML, CSS e JS), tenho foco principal em Front-end, mas sou programador fullstack. Atuo tanto no front como no backend.;
 - 🎓 &nbsp; Apaixonado por tecnologia, me formei Desenvolvimento de Sistemas na ETEC - Escola Técnica Estadual Centro Paula Souza;
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-- 🎓 &nbsp; Cursando React JS Maestria - Udemy;
-- 🎓 &nbsp; Cursando Desenvolvimento Web Maestria - Udemy;
+- 🎓 &nbsp; Formado React Mative - Udemy;
+- 🎓 &nbsp; Formado React.JS Maestria - Udemy;
+- 🎓 &nbsp; Formado Desenvolvimento Web Maestria - Udemy;
 - 🎓 &nbsp; Formado Especialização em Python - Udemy;
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
 - :iphone: &nbsp; Gosto de mexer com desenvolvimento de software em python no meu tempo livre, coisas com api, google, desenvolvimento web (HTML, CSS, JS), mas voltando na rotina, pratico academia e jogo games;
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Python | C | ReactJS
+- 💻 &nbsp; HTML | CSS | JavaScript | Python | C | ReactJS | React Native
 - 🌐 &nbsp; Cybersegurança | Frameworks | DataScience | DataBases
 - :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical | Power BI | Excel
 - 🔧 &nbsp; Scrum | Git | Github | Engenharia de Software
