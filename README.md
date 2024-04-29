@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://moewalls.com/lifestyle/furry-lofi-study-break-live-wallpaper/" width="400"/>
+<img align="right" alt="GIF" src="https://moewalls.com/wp-content/uploads/2023/04/furry-lofi-study-break-thumb-728x410.jpg" width="400"/>
 
 <h2> Hello World!</h2>
 <h3> 💻 Quem sou eu: </h3>
