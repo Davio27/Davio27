@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW1sdmNidnZiYmx2dHR4em5ocHBlbjkxcTlnNzc3YmN6bDcycmFtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/85d8088f419078b5efe45c2ddfe32827519e04e0d1a014c577279f95fbba525a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f30322f30312f31652f30323031316563383535343237376238633730626632326662313932313233632e676966" width="400"/>
 
 <h2> Hello World!</h2>
 <h3> 💻 Quem sou eu: </h3>
