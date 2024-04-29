@@ -1,5 +1,5 @@
-<a href='https://moewalls.com/lifestyle/furry-lofi-study-break-live-wallpaper/' target='_blank'><img src='https://moewalls.com/wp-content/uploads/2023/04/furry-lofi-study-break-thumb-728x410.jpg' title='Furry Lofi Study Break Live Wallpaper'></a>
-<img align="right" alt="GIF" src="https://moewalls.com/wp-content/uploads/2023/04/furry-lofi-study-break-thumb-728x410.jpg" width="400"/>
+
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU4OWYzYmdwMmx1M2g5YXpieHA4dHBlODM0cGZwMWpiNWMyZjgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
 
 <h2> Hello World!</h2>
 <h3> 💻 Quem sou eu: </h3>
