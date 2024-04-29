@@ -19,7 +19,7 @@
 
 - 💻 &nbsp; HTML | CSS | JavaScript | Python | C | ReactJS | React Native
 - 🌐 &nbsp; Cybersegurança | Frameworks | DataScience | DataBases
-- :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Whimsical | Power BI | Excel
+- :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Jira | Power BI | Excel
 - 🔧 &nbsp; Scrum | Git | Github | Engenharia de Software
 
 <br>
@@ -47,6 +47,9 @@
   <img align="center" alt="tech" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img align="center" alt="tech" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
   <img align="center" alt="tech" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img align="center" alt="tech" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+  <img align="center" alt="tech" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" />
+  <img align="center" alt="tech" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" />
   
               
 </div>
