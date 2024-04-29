@@ -30,6 +30,8 @@
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=Davio27&show_icons=true&&theme=aura&count_private=true"/>
   <br></br>
   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davio27&layout=compact&langs_count=7&theme=aura"/>
+  <br></br>
+  <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davio27&theme=radical&hide_border=true"/>
 </div>
 
 ## Principais Tecnologias que uso no dia-a-dia
