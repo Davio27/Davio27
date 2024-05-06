@@ -1,7 +1,7 @@
+<h2> Hello World!</h2>
 
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU4OWYzYmdwMmx1M2g5YXpieHA4dHBlODM0cGZwMWpiNWMyZjgzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="400"/>
 
-<h2> Hello World!</h2>
 <h3> 💻 Quem sou eu: </h3>
 
 - :rainbow: &nbsp; Eu sou o Dávio Carvalho mas pode me chamar de Dave, 
