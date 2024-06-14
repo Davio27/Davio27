@@ -5,7 +5,7 @@
 <h3> 💻 Quem sou eu: </h3>
 
 - :rainbow: &nbsp; Eu sou o Dávio Carvalho mas pode me chamar de Dave, 
-- 🔭 &nbsp; Sou especializado em Python, React.Js e Desenvolvimento Web (HTML, CSS e JS), e agora me especializando </br> em React Native, tenho foco principal em Front-end, mas sou programador fullstack. Atuo tanto no front como no backend.;
+- 🔭 &nbsp; Sou especializado em Python, React.Js e Desenvolvimento Web (HTML, CSS e JS), e agora me especializando </br> em React Native. Tenho foco principal em Front-end, mas sou programador fullstack. Atuo tanto no front como no backend.;
 - 🎓 &nbsp; Apaixonado por tecnologia, me formei Desenvolvimento de Sistemas </br> na ETEC - Escola Técnica Estadual Centro Paula Souza;
 - 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
 - 🎓 &nbsp; Formando React Native - Udemy;
