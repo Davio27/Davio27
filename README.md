@@ -13,7 +13,7 @@ Atualmente trabalho com Engenharia de Dados e Business Intelligence, atuando dir
 - 🎓 &nbsp; Formação & Especializações: </br> 
 - 🎓 &nbsp; Técnico em Desenvolvimento de Sistemas – ETEC Bento Quirino;
 - 🎓 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas – UniMetrocamp;
-- 📚 &nbsp;  Certificações Udemy:;
+- 📚 &nbsp;  Certificações Udemy:
   - 🎓 &nbsp; Engenharia de Dados e Big Data (em andamento);
   - 🎓 &nbsp; Formado Especialização em Python;
   - 🎓 &nbsp; Formado React Native;
