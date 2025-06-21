@@ -10,21 +10,27 @@ Atualmente trabalho com Engenharia de Dados e Business Intelligence, atuando dir
 🔄 Estruturo e automatizo rotinas de dados utilizando DAGs com Airflow, consultas otimizadas, views materializadas e fluxos entre múltiplos sistemas, sempre visando escalabilidade, governança e confiabilidade da informação.</br>
 👨‍💻 Com background em desenvolvimento Fullstack, especialmente com Python e React.js, aplico lógica de programação em automações, integrações via API e projetos que conectam engenharia de dados com desenvolvimento web.</br>
 - 🔭 &nbsp; Sou especializado em Python, React.Js e Desenvolvimento Web (HTML, CSS e JS), e agora me especializando </br> em React Native. Tenho foco principal em Front-end, mas sou programador fullstack. Atuo tanto no front como no backend.</br>
-- 🎓 &nbsp; Apaixonado por tecnologia, me formei Desenvolvimento de Sistemas </br> na ETEC - Escola Técnica Estadual Centro Paula Souza;
-- 🎓 &nbsp; Cursando Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-- 🎓 &nbsp; Formando React Native - Udemy;
-- 🎓 &nbsp; Formado React.JS Maestria - Udemy;
-- 🎓 &nbsp; Formado Desenvolvimento Web Maestria - Udemy;
-- 🎓 &nbsp; Formado Especialização em Python - Udemy;
+- 🎓 &nbsp; Formação & Especializações: </br> 
+- 🎓 &nbsp; Técnico em Desenvolvimento de Sistemas – ETEC Bento Quirino;
+- 🎓 &nbsp; Graduando em Análise e Desenvolvimento de Sistemas – UniMetrocamp;
+- 🎓 &nbsp; 📚 Certificações Udemy:;
+- 🎓 &nbsp; Engenharia de Dados e Big Data (em andamento);
+- 🎓 &nbsp; Formado Especialização em Python;
+- 🎓 &nbsp; Formado React Native;
+- 🎓 &nbsp; React.JS (Maestria);
+- 🎓 &nbsp; Desenvolvimento Web (Maestria);
 - :computer: &nbsp; Gosto de participar de eventos sobre várias tecnologias para fazer network com qualquer dev e entender um pouco mais desse mundo gigante em que estamos conectados;
 - :iphone: &nbsp; Gosto de mexer com desenvolvimento de software em python no meu tempo livre, coisas com api, google, desenvolvimento web (HTML, CSS, JS), mas voltando na rotina, pratico academia e jogo games;
 
 <h3>:atom: &nbsp; Competências Técnicas: </h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | Python | C | ReactJS | React Native
-- 🌐 &nbsp; Cybersegurança | Frameworks | DataScience | DataBases
+- 💻 &nbsp; Python | SQL | HTML/CSS/JS | C | React.js | React Native
+- 🌐 &nbsp; BigQuery (GCP) | Oracle | Airflow (DAGs) | ETL/ELT | Power BI
+Modelagem de Dados | Transformações (SQL/Python) | Schemas e Views
+APIs REST | Automação de rotinas de dados | Análise de Performance
 - :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Jira | Power BI | Excel
-- 🔧 &nbsp; Scrum | Git | Github | Engenharia de Software
+- 🔧 &nbsp; Git & GitHub | VSCode | Jira | Confluence | Figma | Excel Avançado
+Power BI | Scrum | Engenharia de Software | Cybersegurança
 
 <br>
 
