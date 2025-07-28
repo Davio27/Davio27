@@ -28,8 +28,8 @@ Atualmente trabalho com Engenharia de Dados e Business Intelligence, atuando dir
 - 🌐 &nbsp; BigQuery (GCP) | Oracle | Airflow (DAGs) | ETL/ELT | Power BI
 Modelagem de Dados | Transformações (SQL/Python) | Schemas e Views
 APIs REST | Automação de rotinas de dados | Análise de Performance
-- :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Jira | Power BI | Excel
-- 🔧 &nbsp; Git & GitHub | VSCode | Jira | Confluence | Figma | Excel Avançado
+- :art: &nbsp; Visual Studio | Visual Studio code | Photoshop | Figma | Jira | Power BI | Excel | 
+- 🔧 &nbsp; Git & GitHub | VSCode | Jira | Confluence | Figma | Excel Avançado | Power Automate | Studio Script
 Power BI | Scrum | Engenharia de Software | Cybersegurança
 
 <br>
