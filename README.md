@@ -5,10 +5,10 @@
 <h3> 💻 Quem sou eu: </h3>
 
 - 💡 Olá! Sou o Dávio Carvalho, mas pode me chamar de Dave.</br>
-Atualmente trabalho com Engenharia de Dados e Business Intelligence, atuando diretamente na construção, manutenção e otimização de pipelines de dados em ambientes críticos.</br>
-⚙️ Tenho experiência prática em Google BigQuery (GCP) e Oracle, com foco em performance de consultas, organização de schemas, modelagem de dados, correção de steps em workflows e transformações complexas para ambientes analíticos e operacionais.</br>
-🔄 Estruturo e automatizo rotinas de dados utilizando DAGs com Airflow, consultas otimizadas, views materializadas e fluxos entre múltiplos sistemas, sempre visando escalabilidade, governança e confiabilidade da informação.</br>
-👨‍💻 Com background em desenvolvimento Fullstack, especialmente com Python e React.js, aplico lógica de programação em automações, integrações via API e projetos que conectam engenharia de dados com desenvolvimento web.</br>
+Atualmente trabalho com Engenharia de Dados e Business Intelligence, atuando diretamente na construção, manutenção e otimização de pipelines de dados em ambientes cloud.</br>
+- ⚙️ Tenho experiência prática em Google BigQuery (GCP) e Oracle, com foco em performance de consultas, organização de schemas, modelagem de dados, correção de steps em workflows e transformações complexas para ambientes analíticos e operacionais.</br>
+- 🔄 Estruturo e automatizo rotinas de dados utilizando DAGs com Airflow, consultas otimizadas, views materializadas e fluxos entre múltiplos sistemas, sempre visando escalabilidade, governança e confiabilidade da informação.</br>
+- 👨‍💻 Com background em desenvolvimento Fullstack, especialmente com Python e React.js, aplico lógica de programação em automações, integrações via API e projetos que conectam engenharia de dados com desenvolvimento web.</br>
 - 🔭 &nbsp; Sou especializado em Python, React.Js e Desenvolvimento Web (HTML, CSS e JS), e agora me especializando </br> em React Native. Tenho foco principal em Front-end, mas sou programador fullstack. Atuo tanto no front como no backend.</br>
 - 🎓 &nbsp; Formação & Especializações: </br> 
 - 🎓 &nbsp; Técnico em Desenvolvimento de Sistemas – ETEC Bento Quirino;
